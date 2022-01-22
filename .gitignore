@@ -1,3 +1,4 @@
 output.csv
 yellow_tripdata_2021-01.csv
 .DS_Store
+ny_taxi_postgres_data
